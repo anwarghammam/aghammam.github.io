@@ -24,10 +24,6 @@ Software Evolution
 
 For more details about my research, please check my [publication list]([https://umdearborn.edu/](https://scholar.google.com/citations?user=J4NPGMkAAAAJ&hl=en)).
 
-I obtained my research master’s at Polytechnique Montréal, where I applied machine learning techniques to detect vulnerabilities in source code. My work was inspired by concerns over unintentional privilege protection changes that could introduce security vulnerabilities and expose sensitive data. My master’s thesis won the Best Student Paper Award. This work was supervised by Foutse Khomh. As a research assistant with Bram Adams, I contributed to continuous integration and machine learning pipelines, analyzing source code and build failures while working on the traceability of ML and source code artifacts.
-
-I completed my engineering degree in Tunisia at the Higher Institute of Informatics, where I earned a government scholarship based on my exceptional academic achievements, enabling me to pursue studies in Canada.
-
 Latest News
 
 December 2024: Accepted Demo Paper and Poster at ICSOC 2024.
