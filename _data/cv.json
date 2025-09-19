@@ -4,11 +4,11 @@
     "email": "aghammam@umich.edu",
     "phone": "",
     "website": "https://anwarghammam.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at the University of Michigan-Dearborn. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Michigan",
       "countryCode": "US",
       "region": ""
     },
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=J4NPGMkAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": https://orcid.org/my-orcid?orcid=0000-0001-8035-1369"
       },
       {
         "network": "GitHub",
@@ -33,21 +33,21 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Oakland University",
+      "area": "AI4SE",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2025",
+      "gpa": 4,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Oakland University",
+      "area": "M.S. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "2023",
+      "gpa": 4,
       "courses": []
     },
     {
