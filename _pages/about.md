@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " *Ne*xt-Gen *o*f *S*oftware *E*ngineering Lab (NeoSE)"
+title: " ___**Ne**___xt-Gen ___**o**___f ___**S**___oftware ___**E**___ngineering Lab (NeoSE)"
 author_profile: true
 redirect_from: 
   - /about/
